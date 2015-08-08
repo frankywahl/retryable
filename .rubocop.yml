@@ -16,3 +16,7 @@ Documentation:
 LineLength:
   Enabled: true
   Max: 140
+
+Lint/NestedMethodDefinition:
+  Exclude:
+    - spec/spec_helper.rb
