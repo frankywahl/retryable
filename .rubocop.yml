@@ -1,0 +1,18 @@
+AllCops:
+  Exclude:
+    - retryable.gemspec
+
+Style/SignalException:
+  Exclude:
+    - spec/lib/*
+
+Metrics/MethodLength:
+  Exclude:
+    - spec/lib/retryable
+
+Documentation:
+  Enabled: false
+
+LineLength:
+  Enabled: true
+  Max: 140
