@@ -18,7 +18,6 @@ And then execute:
 
 In any class, use just include the module to access the retryable stuff
 
-
 Here is a complete example
 ```ruby
 class Foo
@@ -63,6 +62,10 @@ Tests are at
 bundle exec rake
 ```
 
+# Code Status
+[![Build Status](https://travis-ci.org/frankywahl/retryable.svg?branch=master)](https://travis-ci.org/frankywahl/retryable)
+[![Code Climate](https://codeclimate.com/github/frankywahl/retryable/badges/gpa.svg)](https://codeclimate.com/github/frankywahl/retryable)
+[![Test Coverage](https://codeclimate.com/github/frankywahl/retryable/badges/coverage.svg)](https://codeclimate.com/github/frankywahl/retryable/coverage)
 
 ## Contributing
 
