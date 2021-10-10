@@ -31,7 +31,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake', '~> 12.3'
   spec.add_development_dependency 'pry', '~> 0.10.1'
   spec.add_development_dependency 'rspec', '~> 3.0'
-  spec.add_development_dependency 'rubocop', '~> 0.30'
+  spec.add_development_dependency 'rubocop', '~> 0.93'
   spec.add_development_dependency 'rubygems-tasks', '~> 0.2'
   spec.add_development_dependency 'simplecov'
   spec.add_development_dependency 'simplecov-console'
